@@ -1,6 +1,6 @@
 # TG RAT
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)
 
 Простой в использовании, но мощный RAT с управлением через Telegram бота для технического мониторинга и администрирования.
