@@ -146,7 +146,7 @@ class Config:
 ## 🐛 Поддержка и обратная связь
 
 - Telegram: [@w0rld_adm1n](https://t.me/w0rld_adm1n) (писать только по важным вопросам! иначе чс+спам, "нешарющих" тоже)
-- GitHub: [https://github.com/ArtemChikc](https://github.com/ArtemChikc)
+- GitHub: [https://github.com/ArtemChikc](https://github.com/b1t0nese)
 
 ---
 
